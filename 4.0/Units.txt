@@ -1,0 +1,8 @@
+fathom,6
+furlong, 660
+inch,.083333
+kilometer,3281.5
+meter,3.28155
+mile,5280
+rod,16.5
+yard,3
